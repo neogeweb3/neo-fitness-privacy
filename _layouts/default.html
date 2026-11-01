@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'zh-Hans' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <style>
+    :root {
+      --bg: #ffffff;
+      --text: #1c1c1e;
+      --secondary: #5c5c63;
+      --rule: #e3e3e8;
+      --table-head: #f4f4f7;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0f0d1c;
+        --text: #f2f1f7;
+        --secondary: #a9a6b8;
+        --rule: #2c2940;
+        --table-head: #1b1830;
+      }
+    }
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 16px/1.7 -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Helvetica Neue", Arial, sans-serif;
+    }
+    main { max-width: 720px; margin: 0 auto; padding: 40px 20px 64px; }
+    h1 { font-size: 28px; line-height: 1.3; margin: 0 0 6px; font-weight: 700; }
+    h1 + p { color: var(--secondary); font-size: 14px; margin: 0 0 28px; }
+    h2 { font-size: 18px; line-height: 1.4; margin: 32px 0 10px; font-weight: 600; }
+    p { margin: 0 0 14px; }
+    ul { margin: 0 0 14px; padding-left: 1.3em; }
+    li { margin: 0 0 6px; }
+    strong { font-weight: 600; }
+    hr { border: 0; border-top: 1px solid var(--rule); margin: 56px 0 44px; }
+    table { width: 100%; border-collapse: collapse; margin: 0 0 16px; font-size: 15px; }
+    th, td { text-align: left; vertical-align: top; padding: 10px 12px; border: 1px solid var(--rule); }
+    th { background: var(--table-head); font-weight: 600; }
+    a { color: inherit; }
+  </style>
+</head>
+<body>
+  <main>
+{{ content }}
+  </main>
+</body>
+</html>
