@@ -4,7 +4,7 @@ title: Neo Fitness 隐私政策 / Privacy Policy
 
 # Neo Fitness 隐私政策
 
-生效日期：2026 年 11 月 12 日
+生效日期：2026 年 11 月 17 日
 
 Neo Fitness（以下简称「本应用」）是一款个人开发、处于测试阶段的健身与健康记录应用。本应用的个人信息处理者为本应用开发者（即本应用 App Store 页面列明的卖家，以下简称「开发者」）。本政策说明本应用收集哪些数据、如何使用、发送给谁、保存多久，以及您如何撤回同意和删除数据。
 
@@ -29,11 +29,12 @@ Neo Intelligence 包括新用户引导生成训练计划、对话问答、训练
 - 您选择让 AI 读取的化验单与检查报告文件；
 - 您扫描食品或补剂包装时拍摄或选择的营养成分表照片与包装正面照片；
 - 您在对话中附加的照片、视频、PDF、文本和音频文件；
-- 您在引导问题、对话中填写的内容，以及由对话整理出的记忆。
+- 您在新用户引导「身体有要注意的吗？」中对健康状况问题的回答，包括：是否被医生告知心脏有问题或只能进行医生建议的运动；运动时或平时是否有过胸痛、胸闷；过去一年内是否因头晕失去平衡或晕倒；是否患有高血压，或正在服用治疗心脏、血压、血糖的药物；是否正在怀孕或处于产后一年内；是否有运动时会加重的关节、骨骼或腰背伤病。仅发送您已作答的题目；未作答的题目不发送。上述回答在生成训练计划和对话回答时一并发送，用于避免安排不适合的运动强度；
+- 您在引导问题、「我的要求」和对话中填写的内容，以及由对话整理出的记忆。
 
 使用语音输入时，录音会发送至大语言模型服务合作方转写为文字。
 
-本应用不申请读取生殖健康类数据（如月经、排卵、妊娠相关记录）。
+本应用不申请从「健康」App 读取生殖健康类数据（如月经、排卵、妊娠相关记录）。您在新用户引导中自行回答的怀孕或产后状态，按上述清单发送。
 
 ## 三、数据的接收方
 
@@ -63,6 +64,7 @@ Neo Intelligence 包括新用户引导生成训练计划、对话问答、训练
 ## 五、您的权利、撤回同意与删除数据
 
 - **撤回同意**：在「设置」的「Neo Intelligence」一栏点按「个性、自定义与隐私」（也可从对话页侧边菜单的「设置」进入），关闭「启用」开关。关闭后本应用立即停止新的 AI 数据发送；关闭时已经发出的请求会照常完成。您仍可登录、管理或删除账号。
+- **修改健康问题的回答**：在对话页侧边菜单点按「引导问卷」，选择「身体有要注意的吗？」，可修改或取消各题的回答；修改后的回答从下一次请求起生效。
 - **清除 Neo Intelligence 内容**：在同一页面的「删除数据」一栏点按「清除 Neo Intelligence 内容」，无需先关闭 Neo Intelligence。此操作删除本机全部对话、附件和对话中待记录的饮食草稿，以及赞或踩反馈、记忆、「我的要求」、「改动记录」和本机缓存的个人概况；账号、个人额度、每周 AI 使用量统计、请求编号和训练计划分享保留。本机训练、饮食、化验单与检查报告、体成分记录和新用户引导记录不受影响。大语言模型服务合作方保存的数据不在删除范围内。此操作无法撤销。
 - **删除账号**：在同一页面的「账号」一栏点按您的账号，再点按「删除账号」并确认。账号将立即停用，账号资料、个人额度、每周 AI 使用量统计、请求编号、管理记录和您创建的训练计划分享随删除完成由服务器一并删除，同时清除本机 Neo Intelligence 内容，并撤销 Apple 授权；删除过程中使用的临时记录在清理完成后移除。他人已导入的计划保存在其设备上，不在删除范围内。删除请求未能完成时可重试。如无法完成 Apple 授权，可点按「无法完成 Apple 授权，继续删除」并确认；账号删除后，本应用将提示您在 Apple 账号设置中手动撤销 Neo Fitness 的授权，方法为：在 iPhone 上打开「设置」，点按您的姓名，点按「通过 Apple 登录」，选择 Neo Fitness，然后点按「删除」并按屏幕提示确认。删除请求提交后超过 7 天仍未完成的，由服务器完成删除；在这种情况下，Apple 授权不会自动撤销，需由您按上述方法在 Apple 账号设置中手动撤销 Neo Fitness 的授权。账号删除后无法恢复；本机训练、饮食、化验单与检查报告、体成分记录和新用户引导记录不受影响。
 - **退出与设备数据**：退出登录只清除本机登录凭证、临时 AI 访问凭证和用量缓存，保留本机记录；切换 Apple 账号前须确认清除上一账号的本机 Neo Intelligence 内容。账号不提供健康记录云同步；退出或删除账号不能远程擦除其他离线设备上的数据。已发出的临时 AI 访问凭证最多在 300 秒内仍然有效。删除本应用可清除本机其余健康、体成分及引导记录。已写入「健康」App 的数据需在「健康」App 中管理或删除；删除本应用不会删除这些数据。
@@ -82,7 +84,7 @@ Neo Intelligence 包括新用户引导生成训练计划、对话问答、训练
 
 # Neo Fitness Privacy Policy
 
-Effective date: November 12, 2026
+Effective date: November 17, 2026
 
 Neo Fitness ("the App") is an independently developed fitness and health tracking app currently in testing. Your personal information is processed by the developer of the App (the seller listed on the App's App Store page; "the Developer"). This policy explains what data the App collects, how it is used, who receives it, how long it is kept, and how you can withdraw consent and delete your data.
 
@@ -109,11 +111,12 @@ Once enabled, to generate answers the App sends the following data directly to i
 - Lab and medical report files you choose to have the AI read;
 - Photos of nutrition labels and package fronts that you take or select when scanning food or supplement packaging;
 - Photos, videos, PDFs, text files and audio files you attach in chats;
-- What you enter in onboarding questions and chats, and memories organized from your chats.
+- Your answers to the health questions in the "身体有要注意的吗？" (Anything to Note About Your Body?) step of onboarding, covering: whether a doctor has told you that you have a heart condition or should only do exercise recommended by a doctor; whether you have had chest pain or chest tightness during exercise or at other times; whether you have lost your balance because of dizziness, or fainted, in the past year; whether you have high blood pressure or are taking medication for a heart condition, blood pressure or blood sugar; whether you are pregnant or within one year after giving birth; and whether you have a joint, bone or back injury or condition that exercise makes worse. Only the questions you have answered are sent; unanswered questions are not sent. These answers are sent together with requests to generate training plans and chat answers, and are used to avoid scheduling exercise at an unsuitable intensity;
+- What you enter in onboarding questions, "我的要求" (My Requirements) and chats, and memories organized from your chats.
 
 When you use voice input, the recording is sent to the large language model partners and transcribed into text.
 
-The App does not request access to reproductive health data (such as menstrual, ovulation or pregnancy records).
+The App does not request access to reproductive health data in Apple Health (such as menstrual, ovulation or pregnancy records). Pregnancy or postpartum status that you report yourself during onboarding is sent as described in the list above.
 
 ## 3. Recipients
 
@@ -143,6 +146,7 @@ The Developer does not sell your data, does not use it for advertising, and does
 ## 5. Your rights, withdrawing consent and deleting data
 
 - **Withdraw consent**: In the "Neo Intelligence" section of "设置" (Settings), tap "个性、自定义与隐私" (Personality, Customization & Privacy) — also available from "设置" (Settings) in the side menu of the chat page — and turn off the "启用" (Enable) switch. The App immediately stops sending new AI data; requests already sent when you turn it off will still complete. You can still sign in to, manage and delete your account.
+- **Change health question answers**: In the side menu of the chat page, tap "引导问卷" (Onboarding Questionnaire) and select "身体有要注意的吗？" (Anything to Note About Your Body?) to change or clear your answer to each question. Changed answers take effect from the next request.
 - **Clear Neo Intelligence content**: In the "删除数据" (Delete Data) section of the same page, tap "清除 Neo Intelligence 内容" (Clear Neo Intelligence Content); you do not need to turn off Neo Intelligence first. This deletes all on-device chats, attachments and unlogged meal drafts in chats, as well as positive and negative ratings, memories, "我的要求" (My Requirements), "改动记录" (Change Log) and the locally cached personal profile. The account, individual limit, weekly AI usage statistics, request identifiers and training plan shares are retained. On-device workouts, meals, lab and medical reports, body composition records and onboarding records are unaffected. Data retained by the large language model partners is not included. This action cannot be undone.
 - **Delete account**: In the "账号" (Account) section of the same page, tap your account, then tap "删除账号" (Delete Account) and confirm. The account is deactivated immediately. Your account information, individual limit, weekly AI usage statistics, request identifiers, management records and training plan shares you created are deleted from the server when the deletion is completed; on-device Neo Intelligence content is cleared and Apple authorization is revoked at the same time. Temporary records used during deletion are removed once cleanup is complete. Plans already imported by others are stored on their devices and are not included in the deletion. If the deletion request cannot be completed, you can retry. If Apple authorization cannot be completed, you can tap "无法完成 Apple 授权，继续删除" (Unable to complete Apple authorization, continue deleting) and confirm; after the account is deleted, the App prompts you to revoke Neo Fitness's authorization manually in your Apple Account settings: on your iPhone, open "Settings", tap your name, tap "Sign in with Apple", select Neo Fitness, then tap "Delete" and follow the on-screen steps to confirm. If a deletion request remains incomplete more than 7 days after it is submitted, the server completes the deletion; in this case, Apple authorization is not revoked automatically, and you need to revoke Neo Fitness's authorization manually in your Apple Account settings as described above. Account deletion cannot be undone. On-device workouts, meals, lab and medical reports, body composition records and onboarding records are unaffected.
 - **Sign-out and device data**: Signing out clears only local sign-in credentials, temporary AI access credentials and cached usage, retaining local records. Switching Apple accounts requires confirmation to clear the previous account's on-device Neo Intelligence content. Accounts do not provide health-record cloud synchronization. Signing out or deleting an account cannot remotely erase data on other offline devices. Previously issued temporary AI access credentials may remain valid for up to 300 seconds. Deleting the App removes the remaining on-device health, body composition and onboarding records. Data already written to Apple Health must be managed or deleted in Apple Health; deleting the App does not delete it.
